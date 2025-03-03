@@ -2,4 +2,21 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary app colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Bar colors -->
+    <color name="barColor1">#FF5722</color> <!-- Orange -->
+    <color name="barColor2">#4CAF50</color> <!-- Green -->
+    <color name="barColor3">#2196F3</color> <!-- Blue -->
+    <color name="barColor4">#FFC107</color> <!-- Yellow -->
+    <color name="barColor5">#9C27B0</color> <!-- Purple -->
+
+    <!-- Text and background colors -->
+    <color name="textColorPrimary">#000000</color> <!-- Black -->
+    <color name="textColorSecondary">#757575</color> <!-- Dark Gray -->
+    <color name="backgroundColor">#E0F7FA</color>
 </resources>
